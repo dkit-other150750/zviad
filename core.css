@@ -5,7 +5,6 @@
   font-weight: 400;
   font-display: swap;
   src: url('fonts/Cormorant-Garamond.woff2') format('woff2');
-  unicode-range: U+0410-044F, U+0020-0040, U+2116, U+00B0, U+0041-005A;
 }
 
 /* cyrillic */
