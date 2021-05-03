@@ -678,9 +678,9 @@ button {
 }
 
 .footer__container {
-  display: grid;
-  grid-auto-flow: column;
+  display: flex;
   justify-content: flex-end;
+  flex-wrap: wrap;
   gap: 1.5em;
   max-width: var(--max-width);
   margin: 0 auto;
